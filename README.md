@@ -467,6 +467,7 @@ We're back! Use this repo to share and keep track of software, tech, CS, PM, qua
 | **Amazon** | Software Engineer Intern 🛂 |NY NY| <a href="https://careers.deere.com/careers/job/137456548197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Netflix** | Software Engineer Intern 🛂 |NY NY| <a href="https://careers.deere.com/careers/job/137456548197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 | **Tesla** | Software Engineer Intern 🛂 |NY NY| <a href="https://careers.deere.com/careers/job/137456548197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
+| **Y Combinator** | Software Engineer Intern 🛂 |NY NY| <a href="https://careers.deere.com/careers/job/137456548197?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/u1KNU8z.png" width="118" alt="Apply"></a> | Aug 20 |
 
 
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
